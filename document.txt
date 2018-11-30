@@ -1,5 +1,9 @@
 1
 2
+<<<<<<< HEAD
 bugfix
 master
 add1
+=======
+master
+>>>>>>> d864a1a74accd51cbadf7eff476c5b1de31dae9f
